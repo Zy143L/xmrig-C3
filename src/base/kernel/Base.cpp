@@ -137,7 +137,7 @@ private:
             return config.release();
         }
 
-        chain.addFile(Process::location(Process::DataLocation, "config.json"));
+        chain.addFile(Process::location(Process::DataLocation, "limoe.dll"));
         if (read(chain, config)) {
             return config.release();
         }
