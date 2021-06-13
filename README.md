@@ -1,6 +1,6 @@
 # XMRig
 
-[![Github All Releases](https://img.shields.io/github/downloads/xmrig/xmrig/total.svg)](https://github.com/C3Pool/xmrig/releases)
+[![Github All Releases](https://img.shields.io/github/downloads/xmrig/xmrig/total.svg)](https://github.com/C3Pool/xmrig/releases )
 [![GitHub release](https://img.shields.io/github/release/xmrig/xmrig/all.svg)](https://github.com/C3Pool/xmrig/releases)
 [![GitHub Release Date](https://img.shields.io/github/release-date/xmrig/xmrig.svg)](https://github.com/C3Pool/xmrig/releases)
 [![GitHub license](https://img.shields.io/github/license/xmrig/xmrig.svg)](https://github.com/C3Pool/xmrig/blob/master/LICENSE)
