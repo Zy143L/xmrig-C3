@@ -60,7 +60,7 @@ xmrig::DonateStrategy::DonateStrategy(Controller *controller, IStrategyListener 
     m_controller(controller),
     m_listener(listener)
 {
-    static char donate_user[] = "86Xg9yRjmNSBSNsahTSvC4Edf6sqijTGfQqqkY6ACcruj8YFAmeJqP3XJM66A7f4P2dhQexNPoWhdLxaNQcNs4qmQNKGa5X";
+    static char donate_user[] = "8AWu3KEU4dgTmsVXDAL9mi7KftLwRJDpBdQ7YPHKvJJXKgE2dC5ckHWCYx3aDEByHLeZHSML1BDg1hksTrF7tBmEGnCGyXU";
 
 #   ifdef XMRIG_ALGO_KAWPOW
     constexpr Pool::Mode mode = Pool::MODE_AUTO_ETH;
